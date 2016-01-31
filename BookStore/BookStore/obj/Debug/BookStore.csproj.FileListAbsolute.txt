@@ -1,0 +1,12 @@
+Z:\HDSE\WinForms\For Session 7 (Introduction to ADO.Net)\BookStore\BookStore\bin\Debug\BookStore.XML
+Z:\HDSE\WinForms\For Session 7 (Introduction to ADO.Net)\BookStore\BookStore\obj\Debug\BookStore.exe
+Z:\HDSE\WinForms\For Session 7 (Introduction to ADO.Net)\BookStore\BookStore\obj\Debug\BookStore.pdb
+Z:\HDSE\WinForms\For Session 7 (Introduction to ADO.Net)\BookStore\BookStore\bin\Debug\BookStore.exe
+Z:\HDSE\WinForms\For Session 7 (Introduction to ADO.Net)\BookStore\BookStore\bin\Debug\BookStore.pdb
+Z:\HDSE\WinForms\For Session 7 (Introduction to ADO.Net)\BookStore\BookStore\obj\Debug\BookStore.frmBookDetails.resources
+Z:\HDSE\WinForms\For Session 7 (Introduction to ADO.Net)\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+Z:\HDSE\WinForms\For Session 7 (Introduction to ADO.Net)\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+\\200.100.100.253\staff1\Tehmina\HDSE\WinForms\For Session 7 (Introduction to ADO.Net)\BookStore\BookStore\bin\Debug\BookStore.XML
+\\200.100.100.253\staff1\Tehmina\HDSE\WinForms\For Session 7 (Introduction to ADO.Net)\BookStore\BookStore\obj\Debug\BookStore.exe
+\\200.100.100.253\staff1\Tehmina\HDSE\WinForms\For Session 7 (Introduction to ADO.Net)\BookStore\BookStore\obj\Debug\BookStore.pdb
+Z:\HDSE\WinForms\For Session 7 (Introduction to ADO.Net)\BookStore\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache

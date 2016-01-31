@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BookStore">
+</Property><Property Name="Solution File" Value="Z:\HDSE\WinForms\For Session 7 (Introduction to ADO.Net)\BookStore\BookStore.sln">
+</Property><Property Name="User Options File" Value="Z:\HDSE\WinForms\For Session 7 (Introduction to ADO.Net)\BookStore\BookStore.suo">
+</Property><Property Name="Date" Value="Saturday, August 09, 2014">
+</Property><Property Name="Time" Value="8:58 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BookStore.sln" Description="File successfully backed up as Z:\HDSE\WinForms\For Session 7 (Introduction to ADO.Net)\BookStore\Backup\BookStore.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BookStore.suo" Description="File successfully backed up as Z:\HDSE\WinForms\For Session 7 (Introduction to ADO.Net)\BookStore\Backup\BookStore.suo">
+</Event><Event ErrorLevel="0" Project="BookStore" Source="BookStore\BookStore.csproj" Description="Project file successfully backed up as Z:\HDSE\WinForms\For Session 7 (Introduction to ADO.Net)\BookStore\Backup\BookStore\BookStore.csproj">
+</Event><Event ErrorLevel="0" Project="BookStore" Source="BookStore\frmBookDetails.cs" Description="File successfully backed up as Z:\HDSE\WinForms\For Session 7 (Introduction to ADO.Net)\BookStore\Backup\BookStore\frmBookDetails.cs">
+</Event><Event ErrorLevel="0" Project="BookStore" Source="BookStore\frmBookDetails.Designer.cs" Description="File successfully backed up as Z:\HDSE\WinForms\For Session 7 (Introduction to ADO.Net)\BookStore\Backup\BookStore\frmBookDetails.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BookStore" Source="BookStore\Program.cs" Description="File successfully backed up as Z:\HDSE\WinForms\For Session 7 (Introduction to ADO.Net)\BookStore\Backup\BookStore\Program.cs">
+</Event><Event ErrorLevel="0" Project="BookStore" Source="BookStore\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\HDSE\WinForms\For Session 7 (Introduction to ADO.Net)\BookStore\Backup\BookStore\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BookStore" Source="BookStore\Properties\Resources.Designer.cs" Description="File successfully backed up as Z:\HDSE\WinForms\For Session 7 (Introduction to ADO.Net)\BookStore\Backup\BookStore\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BookStore" Source="BookStore\Properties\Settings.Designer.cs" Description="File successfully backed up as Z:\HDSE\WinForms\For Session 7 (Introduction to ADO.Net)\BookStore\Backup\BookStore\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BookStore" Source="BookStore\Properties\Settings.settings" Description="File successfully backed up as Z:\HDSE\WinForms\For Session 7 (Introduction to ADO.Net)\BookStore\Backup\BookStore\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="BookStore" Source="BookStore\frmBookDetails.resx" Description="File successfully backed up as Z:\HDSE\WinForms\For Session 7 (Introduction to ADO.Net)\BookStore\Backup\BookStore\frmBookDetails.resx">
+</Event><Event ErrorLevel="0" Project="BookStore" Source="BookStore\Properties\Resources.resx" Description="File successfully backed up as Z:\HDSE\WinForms\For Session 7 (Introduction to ADO.Net)\BookStore\Backup\BookStore\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="BookStore" Source="BookStore\BookStore.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="BookStore" Source="BookStore\BookStore.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BookStore" Source="BookStore\BookStore.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BookStore.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BookStore.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BookStore" Source="BookStore\BookStore.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

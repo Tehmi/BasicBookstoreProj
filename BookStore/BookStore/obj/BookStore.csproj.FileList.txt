@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BookStore.frmBookDetails.resources
+obj\Debug\BookStore.Properties.Resources.resources
+obj\Debug\BookStore.csproj.GenerateResource.Cache
+bin\Debug\BookStore.exe
+bin\Debug\BookStore.pdb
+obj\Debug\BookStore.exe
+obj\Debug\BookStore.pdb
+bin\Debug\BookStore.XML
